@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Runtime - 3ms || Memory - 11.20MB
+// Runtime - 3ms || Memory - 11.20 MB
 class Solution
 {
 public:
