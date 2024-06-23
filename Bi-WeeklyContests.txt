@@ -3,3 +3,9 @@ Biweekly Contest 132 (8 June 2024)
 2) 3175. Find The First Player to win K Games in a Row || Done
 3) 3176. Find the Maximum Length of a Good Subsequence I || No
 4) 3177. Find the Maximum Length of a Good Subsequence II || No
+--------------------------------------------------------------------------------------------------------------------------------------------
+Biweekly Contest 133 (22 June 2024)
+1) 3190. Find Minimum Operations to Make All Elements Divisible by Three || Done
+2) 3191. Minimum Operations to Make Binary Array Elements Equal to One I || Done
+3) 3192. Minimum Operations to Make Binary Array Elements Equal to One II || Done
+4) 3193. Count the Number of Inversions || No
