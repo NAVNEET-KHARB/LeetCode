@@ -3,3 +3,9 @@ Weekly Contest 401 (9 June 2024)
 2) 3179. Find the N-th Value After K Seconds || Done
 3) 3180. Maximum Total Reward Using Operations I || No
 4) 3181. Maximum Total Reward Using Operations II || No
+--------------------------------------------------------------------------------------------------------------------------------------------
+Weekly Contest 403 (23 June 2024)
+1) 3194. Minimum Average of Smallest and Largest Elements || Done
+2) 3195. Find the Minimum Area to Cover All Ones I || Done
+3) 3196. Maximize Total Cost of Alternating Subarrays || No
+4) 3197. Find the Minimum Area to Cover All Ones II || No
