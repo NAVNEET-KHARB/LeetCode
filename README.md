@@ -42,6 +42,7 @@ If you're cloning it or find it useful please give it a star
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
