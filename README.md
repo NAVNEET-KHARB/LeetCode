@@ -6,6 +6,7 @@ If you're cloning it or find it useful please give it a star
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -27,6 +28,7 @@ If you're cloning it or find it useful please give it a star
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -53,4 +55,16 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
