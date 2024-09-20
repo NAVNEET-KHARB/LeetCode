@@ -1,13 +1,23 @@
 class Solution {
 public:
     string shortestPalindrome(string s) {
-        string reversedString = s;
-        reverse(reversedString.begin(), reversedString.end());
-        for (int i = 0; i < s.size(); ++i) {
-            if (!memcmp(s.c_str(), reversedString.c_str() + i, s.size() - i)) {
-                return reversedString.substr(0, i) + s;
+        int length = s.length();
+        if (length == 0) {
+            return s;
+        }
+        int left = 0;
+        for (int right = length - 1; right >= 0; right--) {
+            if (s[right] == s[left]) {
+                left++;
             }
         }
-        return reversedString + s;
+        if (left == length) {
+            return s;
+        }
+        string nonPalindromeSuffix = s.substr(left);
+        string reverseSuffix =
+            string(nonPalindromeSuffix.rbegin(), nonPalindromeSuffix.rend());
+        return reverseSuffix + shortestPalindrome(s.substr(0, left)) +
+               nonPalindromeSuffix;
     }
 };
