@@ -1,9 +1,15 @@
 class Solution {
 public:
     int buyChoco(vector<int>& prices, int money) {
-        sort(prices.begin(),prices.end());
-        int minCost = prices[0]+prices[1];
-        if(minCost<=money) return money-minCost;
+        int n = prices.size();
+        int least = prices[0], sleast = INT_MAX;
+        for(int i = 1; i<n; i++){
+            if(prices[i]<=least){
+                sleast = least;
+                least = prices[i];
+            }else if(prices[i]<sleast) sleast = prices[i];
+        }
+        if(least+sleast<=money) return money - (least+sleast);
         return money;
     }
 };
