@@ -33,4 +33,20 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2756-buy-two-chocolates) |
+## String
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
