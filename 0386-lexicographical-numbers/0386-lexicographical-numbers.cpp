@@ -2,23 +2,18 @@ class Solution {
 public:
     vector<int> lexicalOrder(int n) {
         vector<int> lexicographicalNumbers;
-        for (int start = 1; start <= 9; start++) {
-            generateLexicalNumbers(start, n, lexicographicalNumbers);
-        }
-        return lexicographicalNumbers;
-    }
-
-private:
-    void generateLexicalNumbers(int currentNumber, int limit, vector<int>& result) {
-        if (currentNumber > limit) return;
-        result.push_back(currentNumber);
-        for (int nextDigit = 0; nextDigit <= 9; ++nextDigit) {
-            int nextNumber = currentNumber * 10 + nextDigit;
-            if (nextNumber <= limit) {
-                generateLexicalNumbers(nextNumber, limit, result);
+        int currentNumber = 1;
+        for (int i = 0; i < n; i++) {
+            lexicographicalNumbers.push_back(currentNumber);
+            if (currentNumber * 10 <= n) {
+                currentNumber *= 10;
             } else {
-                break;
+                while (currentNumber % 10 == 9 || currentNumber >= n) {
+                    currentNumber /= 10;
+                }
+                currentNumber += 1;
             }
         }
+        return lexicographicalNumbers;
     }
 };
