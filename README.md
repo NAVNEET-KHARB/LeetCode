@@ -95,4 +95,5 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
