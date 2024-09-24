@@ -6,6 +6,7 @@ If you're cloning it or find it useful please give it a star
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0120-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0120-triangle) |
 | [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -127,4 +128,8 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
