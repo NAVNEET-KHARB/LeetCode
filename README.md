@@ -146,6 +146,7 @@ If you're cloning it or find it useful please give it a star
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
