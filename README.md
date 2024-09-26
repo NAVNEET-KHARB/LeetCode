@@ -152,6 +152,7 @@ If you're cloning it or find it useful please give it a star
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -160,6 +161,7 @@ If you're cloning it or find it useful please give it a star
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
