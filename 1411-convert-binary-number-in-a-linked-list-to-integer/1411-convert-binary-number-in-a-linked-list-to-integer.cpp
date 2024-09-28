@@ -14,7 +14,7 @@ class Solution {
         int n = binary.size();
         int dec = 0;
         for(int i = n-1; i>=0; i--){
-            dec += (binary[i]-'0') * pow;
+            if (binary[i] == '1') dec += 1 * pow;
             pow *= 2;
         }
         return dec;
