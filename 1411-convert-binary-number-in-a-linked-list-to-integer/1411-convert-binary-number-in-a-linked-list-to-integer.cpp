@@ -14,8 +14,7 @@ class Solution {
         int n = binary.size();
         int dec = 0;
         for(int i = n-1; i>=0; i--){
-            dec += int(binary[i]-'0') * pow;
-            cout<<dec<<"\t";
+            dec += (binary[i]-'0') * pow;
             pow *= 2;
         }
         return dec;
