@@ -9,16 +9,6 @@
  * };
  */
 class Solution {
-    int binToDec(string binary){
-        int pow = 1;
-        int n = binary.size();
-        int dec = 0;
-        for(int i = n-1; i>=0; i--){
-            if (binary[i] == '1') dec += 1 * pow;
-            pow *= 2;
-        }
-        return dec;
-    }
 public:
     int getDecimalValue(ListNode* head) {
         string binary = "";
@@ -27,6 +17,13 @@ public:
             binary += to_string(temp->val);
             temp = temp->next;
         }
-        return binToDec(binary);
+        int pow = 1;
+        int n = binary.size();
+        int dec = 0;
+        for(int i = n-1; i>=0; i--){
+            if (binary[i] == '1') dec += 1 * pow;
+            pow *= 2;
+        }
+        return dec;
     }
 };
