@@ -11,17 +11,17 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        string binary = "";
+        vector<int> binary;
         ListNode* temp = head;
         while(temp){
-            binary += to_string(temp->val);
+            binary.push_back(temp->val);
             temp = temp->next;
         }
         int pow = 1;
         int n = binary.size();
         int dec = 0;
         for(int i = n-1; i>=0; i--){
-            if (binary[i] == '1') dec += 1 * pow;
+            if (binary[i]&1) dec += 1 * pow;
             pow *= 2;
         }
         return dec;
