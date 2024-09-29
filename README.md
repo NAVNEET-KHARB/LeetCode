@@ -124,6 +124,7 @@ If you're cloning it or find it useful please give it a star
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -155,6 +156,7 @@ If you're cloning it or find it useful please give it a star
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0859-design-circular-deque) |
