@@ -20,6 +20,7 @@ If you're cloning it or find it useful please give it a star
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -32,6 +33,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0432-all-oone-data-structure](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -45,6 +47,7 @@ If you're cloning it or find it useful please give it a star
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sliding Window
