@@ -12,11 +12,13 @@ public:
         int targetSkill = totalSkill/(n/2);
         long long chemistry = 0;
         for(int i = 0; i<n; i++){
+            if(skillCount[skill[i]] < 1) continue;
             int reqSkill = targetSkill-skill[i];
             if(!skillCount[reqSkill]) return -1;
             chemistry += (long long)reqSkill * (long long)skill[i];
+            skillCount[skill[i]]--;
             skillCount[reqSkill]--;
         }
-        return chemistry/2;
+        return chemistry;
     }
 };
