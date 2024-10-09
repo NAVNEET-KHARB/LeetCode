@@ -1,39 +1,41 @@
 class Solution {
 public:
-    vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        unordered_set<int> sus;
-        sus.insert(k);
-        bool kReachable = true;
-        while (kReachable) {
-            kReachable = false;
-            for (auto& it : invocations) {
-                int a = it[0];
-                int b = it[1];
-                if (sus.count(a) && !sus.count(b)) {
-                    sus.insert(b);
-                    kReachable = true;
-                }
-            }
+    void dfs(vector<int> adj[], int node, vector<int> &vis){
+        vis[node] = 1;
+        for (int child: adj[node]){
+            if (!vis[child]) dfs(adj,child,vis);
         }
-        bool flag = false;
-        for (auto& it : invocations) {
-            int a = it[0];
-            int b = it[1];
-            if (!sus.count(a) && sus.count(b)) {
-                flag = true;
-                break;
+    }
+
+    vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
+        vector<int> adj[n];
+        for (auto &x: invocations){
+            adj[x[0]].emplace_back(x[1]);
+        }
+        vector<int> vis(n,0);
+        dfs(adj,k,vis);
+        bool c = false;
+        for (int i = 0; i < n; i++){
+            bool tmp = false;
+            if (!vis[i]){
+                for (int x: adj[i]){
+                    if (vis[x]){
+                        tmp = true;
+                        break;
+                    }
+                }
+                if (tmp){
+                    c = true;
+                    break;
+                }
             }
         }
         vector<int> ans;
-        if(flag){
-            for (int i = 0; i < n; ++i) {
-                ans.push_back(i);
-            }
-        }else{
-            for (int i = 0; i < n; ++i) {
-                if (!sus.count(i)) {
-                    ans.push_back(i);
-                }
+        for (int i = 0; i < n; i++){
+            if (vis[i]){
+                if (c) ans.emplace_back(i);
+            } else {
+                ans.emplace_back(i);
             }
         }
         return ans;
