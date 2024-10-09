@@ -149,6 +149,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
@@ -249,8 +250,13 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
+| [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Simulation
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Graph
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
