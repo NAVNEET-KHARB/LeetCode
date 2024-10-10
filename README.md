@@ -23,6 +23,7 @@ If you're cloning it or find it useful please give it a star
 | [0741-cherry-pickup](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0741-cherry-pickup) |
 | [0859-design-circular-deque](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0859-design-circular-deque) |
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -212,6 +213,7 @@ If you're cloning it or find it useful please give it a star
 | [0155-min-stack](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -259,4 +261,8 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
