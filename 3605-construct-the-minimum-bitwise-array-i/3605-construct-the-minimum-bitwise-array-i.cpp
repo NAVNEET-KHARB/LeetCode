@@ -4,12 +4,9 @@ public:
         int n = nums.size();
         vector<int> ans(n,-1);
         for(int i = 0; i<n; i++){
-            for(int j = 0; j<=nums[i]; j++){
-                if((j|(j+1)) == nums[i]){
-                    ans[i] = j;
-                    break;
-                }
-            }
+            int bit = 0;
+            while(nums[i]&(1<<bit)) bit++;
+            if(nums[i]&1) ans[i] = nums[i] ^ (1<<(bit-1));
         }
         return ans;
     }
