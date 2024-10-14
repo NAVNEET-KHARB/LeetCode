@@ -8,7 +8,7 @@ public:
             int num = pq.top();
             pq.pop();
             ans += num;
-            num%3 == 0?pq.push(num/3):pq.push(num/3 + 1);
+            (num%3 == 0)?pq.push(num/3):pq.push(num/3 + 1);
             k--;
         }
         return ans;
