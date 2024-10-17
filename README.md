@@ -112,6 +112,7 @@ If you're cloning it or find it useful please give it a star
 | [0005-longest-palindromic-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
@@ -163,6 +164,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0416-partition-equal-subset-sum) |
