@@ -86,6 +86,7 @@ If you're cloning it or find it useful please give it a star
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0670-maximum-swap) |
@@ -112,6 +113,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -166,6 +168,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0120-triangle) |
@@ -270,6 +273,7 @@ If you're cloning it or find it useful please give it a star
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
