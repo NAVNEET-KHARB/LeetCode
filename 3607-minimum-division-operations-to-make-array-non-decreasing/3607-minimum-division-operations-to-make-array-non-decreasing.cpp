@@ -1,20 +1,21 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        int n = nums.size();
         int ans = 0;
-        for(int i = n-2; i>=0; i--){
-            if(nums[i] > nums[i+1]){
-                for(int j = 2; j*j <= nums[i]; j++){
-                    if(nums[i]%j == 0){
-                        nums[i] = j;
-                        ans++;
-                        break;
-                    }
-                }
-                if(nums[i]>nums[i+1]) return -1;
+        for (int i = nums.size() - 1; i > 0; i--) {
+            if (nums[i] < nums[i - 1]) {
+                nums[i - 1] = findNum(nums[i], nums[i - 1]);
+                if (nums[i - 1] == -1) return -1;
+                ans++;
             }
         }
         return ans;
+    }
+    
+    int findNum(int n1, int n2) {
+        for (int i = 2; i < n1 + 1; ++i) {
+            if (n2 % i == 0) return i;
+        }
+        return -1;
     }
 };
