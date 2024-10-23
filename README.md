@@ -144,6 +144,7 @@ If you're cloning it or find it useful please give it a star
 | [3195-separate-black-and-white-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -335,6 +336,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Graph
 |  |
 | ------- |
