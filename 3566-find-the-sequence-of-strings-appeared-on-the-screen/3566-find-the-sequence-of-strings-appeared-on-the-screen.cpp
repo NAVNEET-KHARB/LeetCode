@@ -2,21 +2,14 @@ class Solution {
 public:
     vector<string> stringSequence(string target) {
         vector<string> ans;
-        string typing = "";
-        int idx = 0;
-        while(idx<target.size()){
-            char code = 'a';
-            string temp = typing;
-            while(code!=target[idx]){
-                temp += code;
-                ans.push_back(temp);
-                temp.erase(temp.begin()+idx);
-                code++;
+        if (target.size() == 0) return ans;
+        string temp = "";
+        for (int idx = 0; idx < target.size(); idx++) {
+            char ch1 = target[idx];
+            for (char ch2 = 'a'; ch2 <= ch1; ++ch2) {
+                ans.push_back(temp + ch2);
             }
-            temp += target[idx];
-            ans.push_back(temp);
-            typing = temp;
-            idx++;
+            temp += ch1;
         }
         return ans;
     }
