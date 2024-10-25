@@ -33,6 +33,7 @@ If you're cloning it or find it useful please give it a star
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -138,6 +139,7 @@ If you're cloning it or find it useful please give it a star
 | [1197-parsing-a-boolean-expression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -220,12 +222,14 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
