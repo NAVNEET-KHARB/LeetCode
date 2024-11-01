@@ -151,6 +151,7 @@ If you're cloning it or find it useful please give it a star
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3617-find-the-original-typed-string-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Rolling Hash
 |  |
 | ------- |
