@@ -135,6 +135,7 @@ If you're cloning it or find it useful please give it a star
 | [0516-longest-palindromic-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0812-rotate-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -160,6 +161,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
