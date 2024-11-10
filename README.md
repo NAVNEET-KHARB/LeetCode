@@ -72,6 +72,7 @@ If you're cloning it or find it useful please give it a star
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ If you're cloning it or find it useful please give it a star
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ If you're cloning it or find it useful please give it a star
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +161,7 @@ If you're cloning it or find it useful please give it a star
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -222,6 +226,7 @@ If you're cloning it or find it useful please give it a star
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
 | ------- |
