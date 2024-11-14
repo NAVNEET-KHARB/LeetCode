@@ -162,6 +162,7 @@ If you're cloning it or find it useful please give it a star
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3636-check-balanced-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3636-check-balanced-string) |
 ## Rolling Hash
 |  |
 | ------- |
