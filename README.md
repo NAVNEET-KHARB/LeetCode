@@ -40,6 +40,7 @@ If you're cloning it or find it useful please give it a star
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -285,6 +286,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
