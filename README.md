@@ -43,6 +43,7 @@ If you're cloning it or find it useful please give it a star
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -186,6 +187,7 @@ If you're cloning it or find it useful please give it a star
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -274,6 +276,7 @@ If you're cloning it or find it useful please give it a star
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
