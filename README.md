@@ -279,6 +279,7 @@ If you're cloning it or find it useful please give it a star
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
