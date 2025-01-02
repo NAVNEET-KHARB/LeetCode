@@ -99,6 +99,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0007-reverse-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
