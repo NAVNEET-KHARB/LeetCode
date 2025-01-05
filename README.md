@@ -61,6 +61,7 @@ If you're cloning it or find it useful please give it a star
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2358-number-of-ways-to-split-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2465-shifting-letters-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -217,6 +218,7 @@ If you're cloning it or find it useful please give it a star
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -462,6 +464,7 @@ If you're cloning it or find it useful please give it a star
 | [1966-frequency-of-the-most-frequent-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3427-special-array-ii) |
