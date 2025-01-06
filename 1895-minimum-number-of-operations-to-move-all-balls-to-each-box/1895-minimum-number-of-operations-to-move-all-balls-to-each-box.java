@@ -1,12 +1,19 @@
 class Solution {
     public int[] minOperations(String boxes) {
-        int[] ans = new int[boxes.length()];
-        for(int i = 0; i<boxes.length(); i++){
-            if(boxes.charAt(i) == '1'){
-                for(int j = 0; j<boxes.length(); j++){
-                    ans[j] += Math.abs(j-i);
-                }
-            }
+        int n = boxes.length();
+        int[] ans = new int[n];
+        int bl = 0, br = 0;
+        int ml = 0, mr = 0;
+        for(int i = 0; i<n; i++){
+            ans[i] += ml;
+            bl += (boxes.charAt(i) - '0');
+            ml += bl;
+            System.out.println("bl " + bl + "ml "+ ml);
+            int j = n-1-i;
+            ans[j] += mr;
+            br += (boxes.charAt(j) - '0');
+            mr += br;
+            System.out.println("br " + br + "mr "+ mr);
         }
         return ans;
     }
