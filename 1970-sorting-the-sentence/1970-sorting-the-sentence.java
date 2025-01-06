@@ -1,22 +1,18 @@
 class Solution {
     public String sortSentence(String s) {
-        HashMap<Integer,String> mpp = new HashMap<>();
-        String temp = "";
-        int highInd = -1;
-        for(int i = 0; i<s.length(); i++){
-            if(s.charAt(i) == ' ') continue;
-            else if(Character.isDigit(s.charAt(i)) == true){
-                mpp.put(s.charAt(i)-'0',temp);
-                temp = "";
-                highInd = Math.max(highInd,(s.charAt(i)-'0'));
-            }
-            else temp += s.charAt(i);
+        String[] str = s.split(" ");
+        String[] res = new String[str.length];
+        StringBuilder sb = new StringBuilder();
+        int i = 0;
+        for (String elem : str) {
+            i = (int) (elem.charAt(elem.length() - 1) - '0');
+            res[i - 1] = elem.substring(0, elem.length() - 1);
         }
-        temp = "";
-        for(int i = 0; i<highInd; i++){
-            temp += mpp.get(i+1);
-            if(i!=highInd-1) temp += ' ';
+        int n = res.length;
+        for (i = 0; i < n; i++){
+            if(i!=n-1) sb.append(res[i]).append(" ");
+            else sb.append(res[i]);
         }
-        return temp;
+        return sb.toString();
     }
 }
