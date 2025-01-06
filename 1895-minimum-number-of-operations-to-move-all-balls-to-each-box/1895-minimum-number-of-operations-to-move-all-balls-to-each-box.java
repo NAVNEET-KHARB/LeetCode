@@ -8,12 +8,10 @@ class Solution {
             ans[i] += ml;
             bl += (boxes.charAt(i) - '0');
             ml += bl;
-            System.out.println("bl " + bl + "ml "+ ml);
             int j = n-1-i;
             ans[j] += mr;
             br += (boxes.charAt(j) - '0');
             mr += br;
-            System.out.println("br " + br + "mr "+ mr);
         }
         return ans;
     }
