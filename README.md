@@ -11,6 +11,7 @@ If you're cloning it or find it useful please give it a star
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -177,6 +178,7 @@ If you're cloning it or find it useful please give it a star
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -361,6 +363,7 @@ If you're cloning it or find it useful please give it a star
 | [0005-longest-palindromic-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
