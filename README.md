@@ -6,6 +6,7 @@ If you're cloning it or find it useful please give it a star
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
@@ -89,6 +90,7 @@ If you're cloning it or find it useful please give it a star
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
