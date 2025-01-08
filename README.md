@@ -11,6 +11,7 @@ If you're cloning it or find it useful please give it a star
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -303,6 +304,7 @@ If you're cloning it or find it useful please give it a star
 | [0005-longest-palindromic-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0120-triangle) |
@@ -535,6 +537,7 @@ If you're cloning it or find it useful please give it a star
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
