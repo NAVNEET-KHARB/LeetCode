@@ -25,19 +25,8 @@ class Solution {
             if(num == el1) cnt1++;
             else if(num == el2) cnt2++;
         }
-        if(cnt1>n/3){
-            if(cnt2>n/3){
-                if(cnt1>cnt2){
-                    ans.add(el1);
-                    ans.add(el2);
-                }else{
-                    ans.add(el2);
-                    ans.add(el1);
-                }
-            }else{
-                ans.add(el1);
-            }
-        }else if(cnt2>n/3) ans.add(el2);
+        if(cnt1>n/3) ans.add(el1);
+        if(cnt2>n/3) ans.add(el2);
         return ans;
     }
 }
