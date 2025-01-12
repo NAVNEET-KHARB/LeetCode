@@ -2,22 +2,32 @@ class Solution {
     public boolean canBeValid(String s, String locked) {
         int n = s.length();
         if(n%2==1) return false;
-        Stack<Integer> open = new Stack<>();
-        Stack<Integer> unlockInds = new Stack<>();
+        int open = 0;
+        int unlockInds = 0;
         for(int i = 0; i<n; i++){
-            if(locked.charAt(i) == '0') unlockInds.push(i);
-            else if(s.charAt(i) == '(') open.push(i);
+            if(locked.charAt(i) == '0') unlockInds++;
+            else if(s.charAt(i) == '(') open++;
             else{
-                if(!open.empty()) open.pop();
-                else if(!unlockInds.empty()) unlockInds.pop();
+                if(open>0) open--;
+                else if(unlockInds>0) unlockInds--;
                 else return false;
             }
         }
-        while(!open.empty() && !unlockInds.empty() && open.peek()<unlockInds.peek()){
-            open.pop();
-            unlockInds.pop();
+        int balanceCheck = 0;
+        for(int i = n-1; i>=0; i--){
+            if(locked.charAt(i) == '0'){
+                unlockInds--;
+                balanceCheck--;
+            } 
+            else if(s.charAt(i) == '('){
+                balanceCheck++;
+                open--;
+            }
+            else if(s.charAt(i) == ')') balanceCheck--;
+            if(balanceCheck>0) return false;
+            if(open == 0 && unlockInds == 0) break;
         }
-        if(!open.empty()) return false;
+        if(open>0) return false;
         return true;
     }
 }
