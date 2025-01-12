@@ -42,6 +42,7 @@ If you're cloning it or find it useful please give it a star
 | [0416-partition-equal-subset-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -441,6 +442,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -464,6 +466,7 @@ If you're cloning it or find it useful please give it a star
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -525,6 +528,7 @@ If you're cloning it or find it useful please give it a star
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -589,6 +593,7 @@ If you're cloning it or find it useful please give it a star
 | [0053-maximum-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -625,6 +630,7 @@ If you're cloning it or find it useful please give it a star
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Memoization
 |  |
@@ -634,4 +640,8 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
