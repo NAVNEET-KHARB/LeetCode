@@ -2,22 +2,19 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int[] ans = new int[]{-1,-1};
         int n = nums.length;
-        int low = 0, high = n-1;
-        while(low<=high){
-            int mid = low+(high-low)/2;
-            if(nums[mid]<=target){
-                if(nums[mid] == target) ans[1] = mid;
-                low = mid+1;
-            }else high = mid-1;
-        }
-        low = 0;
-        high = n-1;
-        while(low<=high){
-            int mid = low+(high-low)/2;
-            if(nums[mid]>=target){
-                if(nums[mid] == target) ans[0] = mid;
-                high = mid-1;
-            }else low = mid+1;
+        int lowF = 0, highF = n-1;
+        int lowL = 0, highL = n-1;
+        while(lowL<=highL || lowF<=highF){
+            int midL = lowL+(highL-lowL)/2;
+            if(nums[midL]<=target){
+                if(nums[midL] == target) ans[1] = midL;
+                lowL = midL+1;
+            }else highL = midL-1;
+            int midF = lowF+(highF-lowF)/2;
+            if(nums[midF]>=target){
+                if(nums[midF] == target) ans[0] = midF;
+                highF = midF-1;
+            }else lowF = midF+1;
         }
         return ans;
     }
