@@ -11,6 +11,7 @@ If you're cloning it or find it useful please give it a star
 | [0018-4sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
@@ -446,6 +447,7 @@ If you're cloning it or find it useful please give it a star
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
