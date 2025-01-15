@@ -18,6 +18,7 @@ If you're cloning it or find it useful please give it a star
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0056-merge-intervals) |
@@ -505,6 +506,7 @@ If you're cloning it or find it useful please give it a star
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
