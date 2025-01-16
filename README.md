@@ -415,6 +415,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -593,6 +594,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -652,6 +654,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -659,6 +662,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Indexed Tree
 |  |
