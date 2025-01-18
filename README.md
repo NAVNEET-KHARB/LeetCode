@@ -59,6 +59,7 @@ If you're cloning it or find it useful please give it a star
 | [0643-maximum-average-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0741-cherry-pickup) |
@@ -577,6 +578,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
