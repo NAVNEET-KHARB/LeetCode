@@ -91,6 +91,7 @@ If you're cloning it or find it useful please give it a star
 | [1966-frequency-of-the-most-frequent-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -424,6 +425,7 @@ If you're cloning it or find it useful please give it a star
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [2089-maximum-matrix-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -600,6 +602,7 @@ If you're cloning it or find it useful please give it a star
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
