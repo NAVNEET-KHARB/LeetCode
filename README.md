@@ -84,6 +84,7 @@ If you're cloning it or find it useful please give it a star
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1833-find-the-highest-altitude](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -425,6 +426,7 @@ If you're cloning it or find it useful please give it a star
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1876-map-of-highest-peak](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -627,6 +629,7 @@ If you're cloning it or find it useful please give it a star
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
