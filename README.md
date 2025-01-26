@@ -82,6 +82,7 @@ If you're cloning it or find it useful please give it a star
 | [1524-string-matching-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -512,6 +513,7 @@ If you're cloning it or find it useful please give it a star
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
