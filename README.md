@@ -86,6 +86,7 @@ If you're cloning it or find it useful please give it a star
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
