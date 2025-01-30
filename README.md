@@ -169,6 +169,7 @@ If you're cloning it or find it useful please give it a star
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -212,6 +213,7 @@ If you're cloning it or find it useful please give it a star
 | [1502-construct-k-palindrome-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -274,6 +276,7 @@ If you're cloning it or find it useful please give it a star
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -321,6 +324,7 @@ If you're cloning it or find it useful please give it a star
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1970-sorting-the-sentence) |
