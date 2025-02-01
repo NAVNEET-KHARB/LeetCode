@@ -309,6 +309,7 @@ If you're cloning it or find it useful please give it a star
 | [0125-valid-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
@@ -425,6 +426,7 @@ If you're cloning it or find it useful please give it a star
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -521,6 +523,7 @@ If you're cloning it or find it useful please give it a star
 | [0283-move-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
