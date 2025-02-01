@@ -59,6 +59,7 @@ If you're cloning it or find it useful please give it a star
 | [0540-single-element-in-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -241,6 +242,7 @@ If you're cloning it or find it useful please give it a star
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0678-valid-parenthesis-string) |
