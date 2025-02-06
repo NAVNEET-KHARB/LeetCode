@@ -206,6 +206,7 @@ If you're cloning it or find it useful please give it a star
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0048-rotate-image) |
@@ -644,6 +645,7 @@ If you're cloning it or find it useful please give it a star
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -677,6 +679,7 @@ If you're cloning it or find it useful please give it a star
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0206-reverse-linked-list) |
