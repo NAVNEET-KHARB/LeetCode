@@ -652,6 +652,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0002-add-two-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -686,6 +687,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0002-add-two-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
