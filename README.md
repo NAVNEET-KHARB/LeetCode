@@ -520,6 +520,7 @@ If you're cloning it or find it useful please give it a star
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0684-redundant-connection) |
@@ -668,6 +669,7 @@ If you're cloning it or find it useful please give it a star
 | [0025-reverse-nodes-in-k-group](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -758,6 +760,7 @@ If you're cloning it or find it useful please give it a star
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -844,6 +847,7 @@ If you're cloning it or find it useful please give it a star
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -853,6 +857,7 @@ If you're cloning it or find it useful please give it a star
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
