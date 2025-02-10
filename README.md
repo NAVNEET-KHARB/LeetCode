@@ -415,6 +415,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
@@ -717,6 +718,7 @@ If you're cloning it or find it useful please give it a star
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -889,4 +891,8 @@ If you're cloning it or find it useful please give it a star
 | [0820-find-eventual-safe-states](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
