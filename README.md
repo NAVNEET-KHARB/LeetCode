@@ -385,6 +385,7 @@ If you're cloning it or find it useful please give it a star
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -695,6 +696,7 @@ If you're cloning it or find it useful please give it a star
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -784,6 +786,7 @@ If you're cloning it or find it useful please give it a star
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Graph
