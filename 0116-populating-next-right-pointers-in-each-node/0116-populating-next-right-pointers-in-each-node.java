@@ -22,31 +22,14 @@ class Node {
 */
 
 class Solution {
-    public class Pair<K, V> {
-        private K key;
-        private V value;
-        public Pair(K key, V value) {
-            this.key = key;
-            this.value = value;
-        }
-        public K getKey() {
-            return key;
-        }
-        public V getValue() {
-            return value;
-        }
-    }
     public Node connect(Node root) {
         if(root == null) return null;
-        Queue<Pair<Node,Integer>> q = new LinkedList<>();
-        q.add(new Pair<>(root,0));
-        while(q.size()>0){
-            Pair<Node,Integer> nodeP = q.poll();
-            Node currNode = nodeP.getKey();
-            int level = nodeP.getValue();
-            currNode.next = (q.size() == 0 || q.peek().getValue()!=level)?null:q.peek().getKey();
-            if(currNode.left!=null) q.add(new Pair<>(currNode.left,level+1));
-            if(currNode.right!=null) q.add(new Pair<>(currNode.right,level+1));
+        Node le = root.left, ri = root.right, ne = root.next;
+        if(le!=null){
+            le.next = ri;
+            if(ne!=null) ri.next = ne.left;
+            connect(le);
+            connect(ri);
         }
         return root;
     }
