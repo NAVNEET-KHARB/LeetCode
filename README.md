@@ -178,6 +178,7 @@ If you're cloning it or find it useful please give it a star
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
@@ -241,6 +242,7 @@ If you're cloning it or find it useful please give it a star
 | [0169-majority-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0383-ransom-note) |
 | [1364-tuple-with-same-product](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -345,6 +347,7 @@ If you're cloning it or find it useful please give it a star
 | [0125-valid-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
