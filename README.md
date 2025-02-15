@@ -235,6 +235,7 @@ If you're cloning it or find it useful please give it a star
 | [1477-product-of-the-last-k-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -673,6 +674,7 @@ If you're cloning it or find it useful please give it a star
 | [0052-n-queens-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
