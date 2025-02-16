@@ -105,6 +105,7 @@ If you're cloning it or find it useful please give it a star
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -673,6 +674,7 @@ If you're cloning it or find it useful please give it a star
 | [0051-n-queens](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
