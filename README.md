@@ -435,6 +435,7 @@ If you're cloning it or find it useful please give it a star
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -718,6 +719,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -748,6 +750,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
