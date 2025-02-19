@@ -380,6 +380,7 @@ If you're cloning it or find it useful please give it a star
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -689,6 +690,7 @@ If you're cloning it or find it useful please give it a star
 | [0052-n-queens-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
