@@ -59,6 +59,7 @@ If you're cloning it or find it useful please give it a star
 | [0485-max-consecutive-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0542-01-matrix) |
@@ -186,6 +187,7 @@ If you're cloning it or find it useful please give it a star
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -736,6 +738,7 @@ If you're cloning it or find it useful please give it a star
 | [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -865,6 +868,7 @@ If you're cloning it or find it useful please give it a star
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
