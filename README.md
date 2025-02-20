@@ -324,6 +324,7 @@ If you're cloning it or find it useful please give it a star
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0455-assign-cookies) |
@@ -452,6 +453,7 @@ If you're cloning it or find it useful please give it a star
 | [0023-merge-k-sorted-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -601,6 +603,7 @@ If you're cloning it or find it useful please give it a star
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0392-is-subsequence) |
@@ -764,6 +767,7 @@ If you're cloning it or find it useful please give it a star
 | [0155-min-stack](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -957,6 +961,7 @@ If you're cloning it or find it useful please give it a star
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Database
