@@ -20,6 +20,7 @@ If you're cloning it or find it useful please give it a star
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0054-spiral-matrix) |
@@ -177,6 +178,7 @@ If you're cloning it or find it useful please give it a star
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -322,6 +324,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0015-3sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -365,6 +368,7 @@ If you're cloning it or find it useful please give it a star
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
