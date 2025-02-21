@@ -17,18 +17,29 @@ class FindElements {
     HashSet<Integer> nums;
     public FindElements(TreeNode root) {
         nums = new HashSet<>();
-        dfs(root,0);
+        bfs(root);
     }
     
     public boolean find(int target) {
         return nums.contains(target);
     }
 
-    public void dfs(TreeNode root, int val){
-        if(root == null) return;
-        nums.add(val);
-        dfs(root.left,2*val+1);
-        dfs(root.right,2*val+2);
+    public void bfs(TreeNode root){
+        Queue<TreeNode> q = new LinkedList<>();
+        root.val = 0;
+        q.add(root);
+        while(!q.isEmpty()){
+            TreeNode curr = q.poll();
+            nums.add(curr.val);
+            if(curr.left!=null){
+                curr.left.val = 2*curr.val+1;
+                q.add(curr.left);
+            }
+            if(curr.right!=null){
+                curr.right.val = 2*curr.val+2;
+                q.add(curr.right);
+            }
+        }
     }
 }
 
