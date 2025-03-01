@@ -390,6 +390,7 @@ If you're cloning it or find it useful please give it a star
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
@@ -786,6 +787,7 @@ If you're cloning it or find it useful please give it a star
 | [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -811,6 +813,7 @@ If you're cloning it or find it useful please give it a star
 | [0143-reorder-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
