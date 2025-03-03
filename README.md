@@ -51,6 +51,7 @@ If you're cloning it or find it useful please give it a star
 | [0240-search-a-2d-matrix-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -649,6 +650,7 @@ If you're cloning it or find it useful please give it a star
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -686,6 +688,7 @@ If you're cloning it or find it useful please give it a star
 | [0162-find-peak-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -716,6 +719,7 @@ If you're cloning it or find it useful please give it a star
 | [0090-subsets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
