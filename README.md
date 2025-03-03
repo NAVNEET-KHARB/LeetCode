@@ -135,6 +135,7 @@ If you're cloning it or find it useful please give it a star
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -662,6 +663,7 @@ If you're cloning it or find it useful please give it a star
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -909,6 +911,7 @@ If you're cloning it or find it useful please give it a star
 | [0067-add-binary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0067-add-binary) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2551-apply-operations-to-an-array) |
