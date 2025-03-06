@@ -1,17 +1,18 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int n = grid.length;
-        int[] hash = new int[(n*n)+1];
-        int[] ans = new int[2];
+        long sum = 0, sqrSum = 0;
+        long total = (long)n*n;
         for(int i = 0; i<n; i++){
-            for(int j = 0; j<grid[i].length; j++){
-                if(hash[grid[i][j]] == 1) ans[0] = grid[i][j];
-                else hash[grid[i][j]]++;
+            for(int j = 0; j<n; j++){
+                sum += grid[i][j];
+                sqrSum += (long)grid[i][j]*grid[i][j];
             }
         }
-        for(int i = 1; i<=n*n; i++){
-            if(hash[i] == 0) ans[1] = i;
-        }
-        return ans;
+        long sumDiff = sum - (total*(total+1))/2;
+        long sqrDiff = sqrSum - (total*(total+1)*(2*total+1))/6;
+        int repeat = (int)(sqrDiff/sumDiff+sumDiff)/2;
+        int missing = (int)(sqrDiff/sumDiff-sumDiff)/2;
+        return new int[]{repeat,missing};
     }
 }
