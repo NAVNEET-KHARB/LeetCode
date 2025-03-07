@@ -17,6 +17,7 @@ If you're cloning it or find it useful please give it a star
 | [0035-search-insert-position](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0048-rotate-image) |
@@ -530,6 +531,7 @@ If you're cloning it or find it useful please give it a star
 | [0010-regular-expression-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0072-edit-distance) |
@@ -647,6 +649,7 @@ If you're cloning it or find it useful please give it a star
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -808,6 +811,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0020-valid-parentheses](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -957,6 +961,7 @@ If you're cloning it or find it useful please give it a star
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
