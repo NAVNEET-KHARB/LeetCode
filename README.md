@@ -141,6 +141,7 @@ If you're cloning it or find it useful please give it a star
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2227-sum-of-subarray-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -844,6 +845,7 @@ If you're cloning it or find it useful please give it a star
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -986,6 +988,7 @@ If you're cloning it or find it useful please give it a star
 | [0943-sum-of-subarray-minimums](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2227-sum-of-subarray-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
