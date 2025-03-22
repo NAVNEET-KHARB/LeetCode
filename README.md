@@ -663,6 +663,7 @@ If you're cloning it or find it useful please give it a star
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
@@ -986,6 +987,7 @@ If you're cloning it or find it useful please give it a star
 | [2564-most-profitable-path-in-a-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Simulation
@@ -1021,6 +1023,7 @@ If you're cloning it or find it useful please give it a star
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3561-remove-methods-from-project) |
@@ -1128,6 +1131,7 @@ If you're cloning it or find it useful please give it a star
 | [1396-count-servers-that-communicate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Merge Sort
