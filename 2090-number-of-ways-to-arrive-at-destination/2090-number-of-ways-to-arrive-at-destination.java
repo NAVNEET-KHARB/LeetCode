@@ -35,6 +35,7 @@ class Solution {
             Pair<Long,Integer> distP = pq.poll();
             long dis = distP.first();
             int node = distP.second();
+            if(dis>dist[node]) continue;
             for(Pair<Integer,Integer> adjP : adj.get(node)){
                 int adjNode = adjP.first();
                 int roadW = adjP.second();
