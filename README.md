@@ -53,6 +53,7 @@ If you're cloning it or find it useful please give it a star
 | [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -388,6 +389,7 @@ If you're cloning it or find it useful please give it a star
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -1182,5 +1184,6 @@ If you're cloning it or find it useful please give it a star
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
