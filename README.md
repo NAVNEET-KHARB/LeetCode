@@ -279,6 +279,7 @@ If you're cloning it or find it useful please give it a star
 | [0007-reverse-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0069-sqrtx) |
@@ -906,6 +907,7 @@ If you're cloning it or find it useful please give it a star
 | [0010-regular-expression-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0206-reverse-linked-list) |
