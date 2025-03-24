@@ -194,6 +194,7 @@ If you're cloning it or find it useful please give it a star
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3483-alternating-groups-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -418,6 +419,7 @@ If you're cloning it or find it useful please give it a star
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## String
 |  |
 | ------- |
