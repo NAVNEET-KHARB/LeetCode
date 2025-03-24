@@ -8,13 +8,11 @@ class Solution {
             N *= -1;
         }
         while(N>0){
-            if(N%2==0){
-                x *= x;
-                N /= 2;
-            }else{
-                ans *= x;
-                N--;
+            if(N%2==1){
+                ans = (ans*x);
             }
+            x = (x*x);
+            N /= 2;
         }
         return neg?1/ans:ans;
     }
