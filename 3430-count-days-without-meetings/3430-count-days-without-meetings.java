@@ -1,20 +1,13 @@
 class Solution {
     public int countDays(int days, int[][] meetings) {
-        TreeMap<Integer,Integer> mpp = new TreeMap<>();
-        int prefixSum = 0, freeDays = 0, prevDay = days;
+        int freeDays = 0, lastWorkDay = 0;
+        Arrays.sort(meetings,Comparator.comparingInt(a->a[0]));
         for(int[] meeting : meetings){
-            prevDay = Math.min(prevDay,meeting[0]);
-            mpp.put(meeting[0],mpp.getOrDefault(meeting[0],0)+1);
-            mpp.put(meeting[1]+1,mpp.getOrDefault(meeting[1]+1,0)-1);
+            int start = meeting[0], end = meeting[1];
+            if(start>lastWorkDay+1) freeDays += start-lastWorkDay-1;
+            lastWorkDay = Math.max(lastWorkDay,end);
         }
-        freeDays = prevDay-1;
-        for(Map.Entry<Integer,Integer> meet : mpp.entrySet()){
-            int currDay = meet.getKey();
-            if(prefixSum == 0) freeDays += currDay-prevDay;
-            prefixSum += meet.getValue();
-            prevDay = currDay;
-        }
-        freeDays += days-prevDay+1;
+        freeDays += days-lastWorkDay;
         return freeDays;
     }
 }
