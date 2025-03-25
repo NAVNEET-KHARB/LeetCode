@@ -203,6 +203,7 @@ If you're cloning it or find it useful please give it a star
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3643-zero-array-transformation-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -422,6 +423,7 @@ If you're cloning it or find it useful please give it a star
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
