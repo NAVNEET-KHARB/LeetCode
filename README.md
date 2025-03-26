@@ -50,6 +50,7 @@ If you're cloning it or find it useful please give it a star
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -223,6 +224,7 @@ If you're cloning it or find it useful please give it a star
 | [0146-lru-cache](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0290-word-pattern) |
@@ -339,6 +341,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
