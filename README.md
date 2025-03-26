@@ -29,6 +29,7 @@ If you're cloning it or find it useful please give it a star
 | [0073-set-matrix-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -791,6 +792,7 @@ If you're cloning it or find it useful please give it a star
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
@@ -830,6 +832,7 @@ If you're cloning it or find it useful please give it a star
 | [0047-permutations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
