@@ -292,6 +292,7 @@ If you're cloning it or find it useful please give it a star
 | [0060-permutation-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0507-perfect-number) |
