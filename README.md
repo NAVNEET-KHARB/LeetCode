@@ -90,6 +90,7 @@ If you're cloning it or find it useful please give it a star
 | [0735-asteroid-collision](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0741-cherry-pickup) |
+| [0772-construct-quad-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0859-design-circular-deque) |
@@ -653,6 +654,7 @@ If you're cloning it or find it useful please give it a star
 | [0407-trapping-rain-water-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0741-cherry-pickup) |
+| [0772-construct-quad-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1092,6 +1094,7 @@ If you're cloning it or find it useful please give it a star
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
+| [0772-construct-quad-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -1127,6 +1130,7 @@ If you're cloning it or find it useful please give it a star
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0772-construct-quad-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
