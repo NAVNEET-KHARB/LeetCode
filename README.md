@@ -42,6 +42,7 @@ If you're cloning it or find it useful please give it a star
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -371,6 +372,7 @@ If you're cloning it or find it useful please give it a star
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0435-non-overlapping-intervals) |
