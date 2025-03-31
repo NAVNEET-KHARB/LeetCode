@@ -1,7 +1,7 @@
 class Solution {
     public void combine(int ind, int n, int[] candidates, int target, List<Integer> curr, List<List<Integer>> ans){
         if(target == 0) {
-            if(!ans.contains(curr)) ans.add(new ArrayList<>(curr));
+            ans.add(new ArrayList<>(curr));
             return;
         }
         for(int i = ind; i < n; i++){
