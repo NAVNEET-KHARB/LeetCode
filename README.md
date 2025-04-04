@@ -32,6 +32,7 @@ If you're cloning it or find it useful please give it a star
 | [0074-search-a-2d-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -479,6 +480,7 @@ If you're cloning it or find it useful please give it a star
 | [0067-add-binary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -678,6 +680,7 @@ If you're cloning it or find it useful please give it a star
 | [0054-spiral-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -705,6 +708,7 @@ If you're cloning it or find it useful please give it a star
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -881,6 +885,7 @@ If you're cloning it or find it useful please give it a star
 | [0051-n-queens](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
