@@ -256,6 +256,7 @@ If you're cloning it or find it useful please give it a star
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -712,6 +713,7 @@ If you're cloning it or find it useful please give it a star
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1046,6 +1048,7 @@ If you're cloning it or find it useful please give it a star
 | [0820-find-eventual-safe-states](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1171,6 +1174,7 @@ If you're cloning it or find it useful please give it a star
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1187,6 +1191,7 @@ If you're cloning it or find it useful please give it a star
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
