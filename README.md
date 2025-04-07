@@ -47,6 +47,7 @@ If you're cloning it or find it useful please give it a star
 | [0134-gas-station](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0162-find-peak-element) |
@@ -239,6 +240,7 @@ If you're cloning it or find it useful please give it a star
 | [0073-set-matrix-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0146-lru-cache) |
@@ -493,6 +495,7 @@ If you're cloning it or find it useful please give it a star
 | [0115-distinct-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -644,6 +647,7 @@ If you're cloning it or find it useful please give it a star
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -748,6 +752,7 @@ If you're cloning it or find it useful please give it a star
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1231,6 +1236,7 @@ If you're cloning it or find it useful please give it a star
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
