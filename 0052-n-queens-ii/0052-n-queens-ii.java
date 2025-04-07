@@ -1,44 +1,47 @@
 class Solution {
-    public int totalNQueens(int n) {
-        char board[][] = new char[n][n];
-        for(char i[] : board)
-            Arrays.fill(i, '.');
-        return dfs(0, board);
+    private boolean doesnotCollide(int row, int col, int n, char[][] board){
+        int cRow = row, cCol = col;
+        while(cCol>=0){
+            if(board[cRow][cCol] == 'Q') return false;
+            cCol--;
+        }
+        cCol = col;
+        while(cRow>=0 && cCol>=0){
+            if(board[cRow][cCol] == 'Q') return false;
+            cRow--;
+            cCol--;
+        }
+        cRow = row;
+        cCol = col;
+        while(cRow<n && cCol>=0){
+            if(board[cRow][cCol] == 'Q') return false;
+            cRow++;
+            cCol--;
+        }
+        return true;
     }
-    public int dfs(int col, char board[][]){
-        if(col == board.length) return 1;
-        int count = 0;
-        for(int row = 0; row < board.length; row++){
-            if(isSafe(board, row, col)){
+    private void solve(int col, int n, char[][] board, int[] ans){
+        if(col == n){
+            ans[0]++;
+            return;
+        }
+        for(int row = 0; row<n; row++){
+            if(doesnotCollide(row,col,n,board)){
                 board[row][col] = 'Q';
-                count += dfs(col + 1, board);
+                solve(col+1,n,board,ans);
                 board[row][col] = '.';
             }
         }
-        return count;
     }
-    public boolean isSafe(char board[][], int row, int col){
-        int dupRow = row;
-        int dupCol = col;
-        
-        while(row >= 0 && col >= 0){
-            if(board[row][col] == 'Q') return false;
-            row--;
-            col--;
+    public int totalNQueens(int n) {
+        char[][] board = new char[n][n];
+        for(int i = 0; i<n; i++){
+            for(int j = 0; j<n; j++){
+                board[i][j] = '.';
+            }
         }
-        row = dupRow;
-        col = dupCol;
-        while(col >= 0){
-            if(board[row][col] == 'Q') return false;
-            col--;
-        }
-        row = dupRow;
-        col = dupCol;
-        while(col >= 0 && row < board.length){
-            if(board[row][col] == 'Q') return false;
-            row++;
-            col--;
-        }
-        return true;
+        int[] ans = new int[1];
+        solve(0,n,board,ans);
+        return ans[0];
     }
 }
