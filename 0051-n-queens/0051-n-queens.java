@@ -1,54 +1,54 @@
 class Solution {
-    public List<List<String>> solveNQueens(int n) {
-        List<List<String>> solution = new ArrayList<>();
-        char board[][] = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                board[i][j] = '.';
-            }
+    private List<String> constructList(char[][] board){
+        List<String> solution = new ArrayList<>();
+        for(char[] row : board){
+            solution.add(new String(row));
         }
-        helper(board, solution, 0, n);
         return solution;
     }
-
-    public void helper(char board[][], List<List<String>> solution, int row, int n) {
-        if (row == n) {
-            solution.add(construstSolution(board));
-            return;
+    private boolean doesnotCollide(int row, int col, int n, char[][] board){
+        int cRow = row, cCol = col;
+        while(cCol>=0){
+            if(board[cRow][cCol] == 'Q') return false;
+            cCol--;
         }
-        for (int i = 0; i < n; i++) {
-            if (ifSafe(row, i, board, n)) {
-                board[row][i] = 'Q';
-                helper(board, solution, row + 1, n);
-                board[row][i] = '.';
-            }
+        cCol = col;
+        while(cRow>=0 && cCol>=0){
+            if(board[cRow][cCol] == 'Q') return false;
+            cRow--;
+            cCol--;
         }
-    }
-
-    public boolean ifSafe(int x, int y, char board[][], int n) {
-        for (int i = 0; i < x; i++) {
-            if (board[i][y] == 'Q') {
-                return false;
-            }
-        }
-        for (int i = x - 1, j = y - 1; i >= 0 && j >= 0; i--, j--) {
-            if (board[i][j] == 'Q') {
-                return false;
-            }
-        }
-        for (int i = x - 1, j = y + 1; i >= 0 && j < n; i--, j++) {
-            if (board[i][j] == 'Q') {
-                return false;
-            }
+        cRow = row;
+        cCol = col;
+        while(cRow<n && cCol>=0){
+            if(board[cRow][cCol] == 'Q') return false;
+            cRow++;
+            cCol--;
         }
         return true;
     }
-
-    public List<String> construstSolution(char board[][]) {
-        List<String> result = new ArrayList<>();
-        for (char row[] : board) {
-            result.add(new String(row));
+    private void solve(int col, int n, char[][] board, List<List<String>> ans){
+        if(col == n){
+            ans.add(constructList(board));
+            return;
         }
-        return result;
+        for(int row = 0; row<n; row++){
+            if(doesnotCollide(row,col,n,board)){
+                board[row][col] = 'Q';
+                solve(col+1,n,board,ans);
+                board[row][col] = '.';
+            }
+        }
+    }
+    public List<List<String>> solveNQueens(int n) {
+        List<List<String>> ans = new ArrayList<>();
+        char[][] board = new char[n][n];
+        for(int i = 0; i<n; i++){
+            for(int j = 0; j<n; j++){
+                board[i][j] = '.';
+            }
+        }
+        solve(0,n,board,ans);
+        return ans;
     }
 }
