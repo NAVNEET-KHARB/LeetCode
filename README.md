@@ -226,6 +226,7 @@ If you're cloning it or find it useful please give it a star
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3643-zero-array-transformation-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -303,6 +304,7 @@ If you're cloning it or find it useful please give it a star
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
