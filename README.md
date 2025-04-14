@@ -656,6 +656,7 @@ If you're cloning it or find it useful please give it a star
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -742,6 +743,7 @@ If you're cloning it or find it useful please give it a star
 | [0112-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -1230,6 +1232,7 @@ If you're cloning it or find it useful please give it a star
 | [0112-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1255,6 +1258,7 @@ If you're cloning it or find it useful please give it a star
 | [0112-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
