@@ -136,6 +136,7 @@ If you're cloning it or find it useful please give it a star
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1200,6 +1201,7 @@ If you're cloning it or find it useful please give it a star
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2998-count-symmetric-integers) |
