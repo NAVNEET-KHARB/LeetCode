@@ -501,6 +501,7 @@ If you're cloning it or find it useful please give it a star
 | [0022-generate-parentheses](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0058-length-of-last-word) |
