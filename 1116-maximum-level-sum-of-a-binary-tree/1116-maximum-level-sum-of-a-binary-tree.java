@@ -15,25 +15,21 @@
  */
 class Solution {
     public int maxLevelSum(TreeNode root) {
-        int maxx = Integer.MIN_VALUE;
-        int ans = 0, level = 0;
+        if(root.left == null && root.right == null) return 1;
+        int maxSum = Integer.MIN_VALUE, ans = 0, level = 0;
         Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        while (!q.isEmpty()) {
+        q.add(root);
+        while(!q.isEmpty()){
             level++;
-            int curr = 0;
-            for (int i = q.size(); i > 0; i--) {
+            int sz = q.size(), curr = 0;
+            for(int i = 0; i<sz; i++){
                 TreeNode node = q.poll();
                 curr += node.val;
-                if (node.left != null) {
-                    q.offer(node.left);
-                }
-                if (node.right != null) {
-                    q.offer(node.right);
-                }
+                if(node.left != null) q.add(node.left);
+                if(node.right != null) q.add(node.right);
             }
-            if (maxx < curr) {
-                maxx = curr;
+            if(maxSum<curr){
+                maxSum = curr;
                 ans = level;
             }
         }
