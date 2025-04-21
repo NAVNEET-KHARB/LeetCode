@@ -53,6 +53,7 @@ class Solution {
         TreeNode startNode = getTarget(root,start);
         Queue<TreeNode> q = new LinkedList<>();
         int time = -1;
+        vis.put(startNode,true);
         q.add(startNode);
         while(!q.isEmpty()){
             time++;
