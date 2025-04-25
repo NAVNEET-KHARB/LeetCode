@@ -536,6 +536,7 @@ If you're cloning it or find it useful please give it a star
 | [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0392-is-subsequence) |
@@ -780,6 +781,7 @@ If you're cloning it or find it useful please give it a star
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -1082,6 +1084,7 @@ If you're cloning it or find it useful please give it a star
 | [0225-implement-stack-using-queues](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -1146,6 +1149,7 @@ If you're cloning it or find it useful please give it a star
 | [0112-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1302,6 +1306,7 @@ If you're cloning it or find it useful please give it a star
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1341,6 +1346,7 @@ If you're cloning it or find it useful please give it a star
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
