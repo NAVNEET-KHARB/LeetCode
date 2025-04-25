@@ -15,20 +15,28 @@
  */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        Stack<TreeNode> st = new Stack<>();
-        TreeNode node = root;
-        while(true){
-            if(node != null){
-                st.push(node);
-                node = node.left;
+        // Morris traversal
+        List<Integer> inOrder = new ArrayList<>();
+        TreeNode curr = root;
+        while(curr != null){
+            if(curr.left == null){
+                inOrder.add(curr.val);
+                curr = curr.right;
             }else{
-                if(st.isEmpty()) break;
-                node = st.pop();
-                ans.add(node.val);
-                node = node.right;
+                TreeNode next = curr.left;
+                while(next.right != null && next.right != curr){
+                    next = next.right;
+                }
+                if(next.right == null){
+                    next.right = curr;
+                    curr = curr.left;
+                }else{
+                    next.right = null;
+                    inOrder.add(curr.val);
+                    curr = curr.right;
+                }
             }
         }
-        return ans;
+        return inOrder;
     }
 }
