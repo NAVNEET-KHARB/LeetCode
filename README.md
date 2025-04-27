@@ -789,6 +789,7 @@ If you're cloning it or find it useful please give it a star
 | [0144-binary-tree-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -1164,6 +1165,7 @@ If you're cloning it or find it useful please give it a star
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -1325,6 +1327,7 @@ If you're cloning it or find it useful please give it a star
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1370,6 +1373,7 @@ If you're cloning it or find it useful please give it a star
 | [0145-binary-tree-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
