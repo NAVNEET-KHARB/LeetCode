@@ -538,6 +538,7 @@ If you're cloning it or find it useful please give it a star
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0257-binary-tree-paths](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -791,6 +792,7 @@ If you're cloning it or find it useful please give it a star
 | [0199-binary-tree-right-side-view](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -987,6 +989,7 @@ If you're cloning it or find it useful please give it a star
 | [0113-path-sum-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1329,6 +1332,7 @@ If you're cloning it or find it useful please give it a star
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -1375,6 +1379,7 @@ If you're cloning it or find it useful please give it a star
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0543-diameter-of-binary-tree) |
