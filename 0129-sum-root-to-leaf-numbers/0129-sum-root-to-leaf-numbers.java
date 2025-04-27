@@ -14,22 +14,20 @@
  * }
  */
 class Solution {
-    public void preOrder(TreeNode root, int curr, ArrayList<Integer> arr){
+    public void preOrder(TreeNode root, int curr, int[] ans){
         if(root == null) return;
         curr = curr*10 + root.val;
         if(root.left == null && root.right == null){
-            arr.add(curr);
+            ans[0] += curr;
             return;
         }
-        preOrder(root.left,curr,arr);
-        preOrder(root.right,curr,arr);
+        preOrder(root.left,curr,ans);
+        preOrder(root.right,curr,ans);
     }
     public int sumNumbers(TreeNode root) {
-        ArrayList<Integer> arr = new ArrayList<>();
+        int[] ans = new int[1];
         int curr = 0;
-        preOrder(root,curr,arr);
-        int ans = 0;
-        for(int num : arr) ans += num;
-        return ans;
+        preOrder(root,curr,ans);
+        return ans[0];
     }
 }
