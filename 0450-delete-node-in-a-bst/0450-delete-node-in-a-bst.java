@@ -14,18 +14,18 @@
  * }
  */
 class Solution {
-    private TreeNode findLastRight(TreeNode root){
-        if(root.right==null) return root;
-        return findLastRight(root.right);
+    private TreeNode findlastLeft(TreeNode root){
+        if(root.left==null) return root;
+        return findlastLeft(root.left);
     }
     private TreeNode helper(TreeNode root){
         if(root.left == null) return root.right;
-        else if(root.left == null) return root.left;
+        else if(root.right == null) return root.left;
         else{
-            TreeNode rightChild = root.right;
-            TreeNode lastRight = findLastRight(root.left);
-            lastRight.right = rightChild;
-            return root.left;
+            TreeNode leftChild = root.left;
+            TreeNode lastLeft = findlastLeft(root.right);
+            lastLeft.left = leftChild;
+            return root.right;
         }
     }
     public TreeNode deleteNode(TreeNode root, int key) {
