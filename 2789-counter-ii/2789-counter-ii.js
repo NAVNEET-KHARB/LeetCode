@@ -4,21 +4,18 @@
  */
 var createCounter = function(init) {
     let val = init;
-    let ansObj = {
-        increment : () => {
-            val += 1;
-            return val;
+    return {
+        increment(){
+            return ++val;
         },
-        decrement : () => {
-            val -= 1;
-            return val;
+        decrement(){
+            return --val;
         },
-        reset : () => {
+        reset(){
             val = init;
             return val;
         }
     }
-    return ansObj;
 };
 
 /**
