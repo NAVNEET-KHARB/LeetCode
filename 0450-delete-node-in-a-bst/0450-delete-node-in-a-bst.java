@@ -14,25 +14,23 @@
  * }
  */
 class Solution {
-    private TreeNode findlastLeft(TreeNode root){
-        if(root.left==null) return root;
-        return findlastLeft(root.left);
+    private TreeNode lastRight(TreeNode root){
+        if(root.right == null) return root;
+        return lastRight(root.right);
     }
     private TreeNode helper(TreeNode root){
         if(root.left == null) return root.right;
         else if(root.right == null) return root.left;
-        else{
-            TreeNode leftChild = root.left;
-            TreeNode lastLeft = findlastLeft(root.right);
-            lastLeft.left = leftChild;
-            return root.right;
-        }
+        TreeNode rightChild = root.right;
+        TreeNode lastRightChild = lastRight(root.left);
+        lastRightChild.right = rightChild;
+        return root.left;
     }
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root == null) return root;
         if(root.val == key) return helper(root);
         TreeNode curr = root;
-        while(curr != null){
+        while(curr!=null){
             if(curr.val>key){
                 if(curr.left != null && curr.left.val == key){
                     curr.left = helper(curr.left);
@@ -43,6 +41,7 @@ class Solution {
                     curr.right = helper(curr.right);
                     break;
                 }else curr = curr.right;
+
             }
         }
         return root;
