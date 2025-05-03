@@ -114,6 +114,7 @@ If you're cloning it or find it useful please give it a star
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1184-car-pooling](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1184-car-pooling) |
@@ -448,6 +449,7 @@ If you're cloning it or find it useful please give it a star
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
