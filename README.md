@@ -235,6 +235,7 @@ If you're cloning it or find it useful please give it a star
 | [3227-find-missing-and-repeated-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -493,6 +494,7 @@ If you're cloning it or find it useful please give it a star
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3647-zero-array-transformation-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
@@ -550,6 +552,7 @@ If you're cloning it or find it useful please give it a star
 | [3001-apply-operations-to-maximize-score](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -789,6 +792,7 @@ If you're cloning it or find it useful please give it a star
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1020,6 +1024,7 @@ If you're cloning it or find it useful please give it a star
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Ordered Set
 |  |
@@ -1431,6 +1436,7 @@ If you're cloning it or find it useful please give it a star
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
