@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    public TreeNode lastRight(TreeNode root){
-        if(root.right == null) return root;
-        return lastRight(root.right);
+    public TreeNode lastLeft(TreeNode root){
+        if(root.left == null) return root;
+        return lastLeft(root.left);
     }
     public TreeNode helper(TreeNode root){
         if(root.left == null) return root.right;
         if(root.right == null) return root.left;
-        TreeNode right = root.right;
-        TreeNode lastRight = lastRight(root.left);
-        lastRight.right = right;
-        return root.left;
+        TreeNode left = root.left;
+        TreeNode lastLeft = lastLeft(root.right);
+        lastLeft.left = left;
+        return root.right;
     }
     public TreeNode deleteNode(TreeNode root, int key) {
         if(root == null) return root;
