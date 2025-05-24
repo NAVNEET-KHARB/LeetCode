@@ -14,20 +14,20 @@
  * }
  */
 class Solution {
-    private void inOrder(TreeNode root, int k, int[] cnt, int[] ans){
+    public void preOrder(TreeNode root, int[] cnt, int k, int[] ans){
         if(root == null || cnt[0]>=k) return;
-        inOrder(root.left,k,cnt,ans);
+        preOrder(root.left,cnt,k,ans);
         cnt[0]++;
         if(cnt[0] == k){
             ans[0] = root.val;
             return;
         }
-        inOrder(root.right,k,cnt,ans);
+        preOrder(root.right,cnt,k,ans);
     }
     public int kthSmallest(TreeNode root, int k) {
-        int[] cnt = new int[1];
         int[] ans = new int[1];
-        inOrder(root,k,cnt,ans);
+        int[] cnt = new int[1];
+        preOrder(root,cnt,k,ans);
         return ans[0];
     }
 }
