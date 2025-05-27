@@ -1,10 +1,6 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
-        int n1 = 0, n2 = 0;
-        for(int i = 0; i<=n; i++){
-            if(i%m == 0) n2 += i;
-            else n1 += i;
-        }
-        return n1-n2;
+        int k = n/m;
+        return (n*(n+1))/2 - k*(k+1)*m;
     }
 }
