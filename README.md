@@ -670,6 +670,7 @@ If you're cloning it or find it useful please give it a star
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3636-check-balanced-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -975,6 +976,7 @@ If you're cloning it or find it useful please give it a star
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1405,6 +1407,7 @@ If you're cloning it or find it useful please give it a star
 | [2998-count-symmetric-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
