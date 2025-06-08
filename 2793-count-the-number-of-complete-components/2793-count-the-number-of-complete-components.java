@@ -1,32 +1,39 @@
-public class Solution {
+class Solution {
+    public ArrayList<Integer> bfs(int start, int[] vis, ArrayList<ArrayList<Integer>> adj){
+        ArrayList<Integer> nodes = new ArrayList<>();
+        Queue<Integer> q = new LinkedList<>();
+        q.add(start);
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            if(vis[curr] == 1) continue;
+            nodes.add(curr);
+            vis[curr] = 1;
+            for(int node : adj.get(curr)) q.add(node);
+        }
+        return nodes;
+    }
     public int countCompleteComponents(int n, int[][] edges) {
-        List<Integer>[] graph = new ArrayList[n];
-        Map<List<Integer>, Integer> componentFreq = new HashMap<>();
-        for (int vertex = 0; vertex < n; vertex++) {
-            graph[vertex] = new ArrayList<>();
-            graph[vertex].add(vertex);
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for(int i = 0; i<n; i++) adj.add(new ArrayList<Integer>());
+        for(int i = 0; i<edges.length; i++){
+            adj.get(edges[i][0]).add(edges[i][1]);
+            adj.get(edges[i][1]).add(edges[i][0]);
         }
-        for (int[] edge : edges) {
-            graph[edge[0]].add(edge[1]);
-            graph[edge[1]].add(edge[0]);
-        }
-        for (int vertex = 0; vertex < n; vertex++) {
-            List<Integer> neighbors = graph[vertex];
-            Collections.sort(neighbors);
-            componentFreq.put(
-                neighbors,
-                componentFreq.getOrDefault(neighbors, 0) + 1
-            );
-        }
-        int completeCount = 0;
-        for (Map.Entry<
-            List<Integer>,
-            Integer
-        > entry : componentFreq.entrySet()) {
-            if (entry.getKey().size() == entry.getValue()) {
-                completeCount++;
+        int[] vis = new int[n];
+        int completeComponents = 0;
+        for(int i = 0; i<n; i++){
+            if(vis[i] == 0){
+                ArrayList<Integer> component = bfs(i,vis,adj);
+                boolean isComplete = true;
+                for(int node : component){
+                    if(adj.get(node).size() != component.size()-1){
+                        isComplete = false;
+                        break;
+                    }
+                }
+                if(isComplete) completeComponents++;
             }
         }
-        return completeCount;
+        return completeComponents;
     }
 }
