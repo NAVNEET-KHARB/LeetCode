@@ -269,6 +269,7 @@ If you're cloning it or find it useful please give it a star
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
