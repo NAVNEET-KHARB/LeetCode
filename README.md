@@ -122,6 +122,7 @@ If you're cloning it or find it useful please give it a star
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1184-car-pooling](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -854,6 +855,7 @@ If you're cloning it or find it useful please give it a star
 | [0945-snakes-and-ladders](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -913,6 +915,7 @@ If you're cloning it or find it useful please give it a star
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1313,6 +1316,7 @@ If you're cloning it or find it useful please give it a star
 | [0945-snakes-and-ladders](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1593,6 +1597,7 @@ If you're cloning it or find it useful please give it a star
 | [0684-redundant-connection](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
