@@ -221,6 +221,7 @@ If you're cloning it or find it useful please give it a star
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -513,6 +514,7 @@ If you're cloning it or find it useful please give it a star
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1052,6 +1054,7 @@ If you're cloning it or find it useful please give it a star
 | [2665-minimum-time-to-repair-cars](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
