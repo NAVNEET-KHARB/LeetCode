@@ -191,6 +191,7 @@ If you're cloning it or find it useful please give it a star
 | [2280-count-good-triplets-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -1019,6 +1020,7 @@ If you're cloning it or find it useful please give it a star
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
