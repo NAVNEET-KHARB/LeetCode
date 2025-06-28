@@ -180,6 +180,7 @@ If you're cloning it or find it useful please give it a star
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -340,6 +341,7 @@ If you're cloning it or find it useful please give it a star
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -584,6 +586,7 @@ If you're cloning it or find it useful please give it a star
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -769,6 +772,7 @@ If you're cloning it or find it useful please give it a star
 | [1917-maximum-average-pass-ratio](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2434-design-a-number-container-system) |
