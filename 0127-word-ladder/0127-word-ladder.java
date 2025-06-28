@@ -3,25 +3,25 @@ class Solution {
         HashSet<String> set = new HashSet<>(wordList);
         if(!set.contains(endWord)) return 0;
         Queue<Pair<String,Integer>> q = new LinkedList<>();
-        q.add(new Pair<>(beginWord,1));
-        set.remove(beginWord);
+        q.add(new Pair<>(beginWord, 1));
+        if(set.contains(beginWord)) set.remove(beginWord);
         while(!q.isEmpty()){
-            Pair<String, Integer> p = q.poll();
-            String word = p.getKey();
+            Pair<String,Integer> p = q.poll();
+            String currWord = p.getKey();
             int steps = p.getValue();
-            if (word.equals(endWord)) return steps;
-            char[] arr = word.toCharArray();
-            for (int i = 0; i < arr.length; i++) {
-                char original = arr[i];
-                for (char c = 'a'; c <= 'z'; c++) {
-                    arr[i] = c;
-                    String nextWord = new String(arr);
-                    if (set.contains(nextWord)) {
-                        q.add(new Pair<>(nextWord, steps + 1));
-                        set.remove(nextWord);
+            if(currWord.equals(endWord)) return steps;
+            char[] cArr = currWord.toCharArray();
+            for(int i = 0; i<cArr.length; i++){
+                char og = cArr[i];
+                for(char c = 'a'; c<='z'; c++){
+                    cArr[i] = c;
+                    String successor = new String(cArr);
+                    if(set.contains(successor)){
+                        q.add(new Pair<>(successor,steps+1));
+                        set.remove(successor);
                     }
                 }
-                arr[i] = original;
+                cArr[i] = og;
             }
         }
         return 0;
