@@ -726,6 +726,7 @@ If you're cloning it or find it useful please give it a star
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3636-check-balanced-string) |
@@ -878,6 +879,7 @@ If you're cloning it or find it useful please give it a star
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3618-find-the-original-typed-string-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1326,6 +1328,7 @@ If you're cloning it or find it useful please give it a star
 | [2691-count-vowel-strings-in-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3427-special-array-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3647-zero-array-transformation-iii) |
