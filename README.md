@@ -437,6 +437,7 @@ If you're cloning it or find it useful please give it a star
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1135,6 +1136,7 @@ If you're cloning it or find it useful please give it a star
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1277,6 +1279,7 @@ If you're cloning it or find it useful please give it a star
 | [1197-parsing-a-boolean-expression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -1425,6 +1428,7 @@ If you're cloning it or find it useful please give it a star
 | [3447-clear-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
 | ------- |
