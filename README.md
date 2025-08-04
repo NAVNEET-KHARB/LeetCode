@@ -112,6 +112,7 @@ If you're cloning it or find it useful please give it a star
 | [0907-koko-eating-bananas](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
@@ -342,6 +343,7 @@ If you're cloning it or find it useful please give it a star
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -515,6 +517,7 @@ If you're cloning it or find it useful please give it a star
 | [0594-longest-harmonious-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
