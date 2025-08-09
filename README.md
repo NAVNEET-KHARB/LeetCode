@@ -431,6 +431,7 @@ If you're cloning it or find it useful please give it a star
 | [0069-sqrtx](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0507-perfect-number) |
@@ -1192,6 +1193,7 @@ If you're cloning it or find it useful please give it a star
 | [0090-subsets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1352,6 +1354,7 @@ If you're cloning it or find it useful please give it a star
 | [0060-permutation-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
