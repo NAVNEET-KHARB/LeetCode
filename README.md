@@ -344,6 +344,7 @@ If you're cloning it or find it useful please give it a star
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -439,6 +440,7 @@ If you're cloning it or find it useful please give it a star
 | [0670-maximum-swap](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -486,6 +488,7 @@ If you're cloning it or find it useful please give it a star
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -629,6 +632,7 @@ If you're cloning it or find it useful please give it a star
 | [0594-longest-harmonious-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1592,6 +1596,7 @@ If you're cloning it or find it useful please give it a star
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
