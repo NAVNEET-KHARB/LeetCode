@@ -435,6 +435,7 @@ If you're cloning it or find it useful please give it a star
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1363,6 +1364,7 @@ If you're cloning it or find it useful please give it a star
 | [0206-reverse-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
