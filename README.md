@@ -94,6 +94,7 @@ If you're cloning it or find it useful please give it a star
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0724-find-pivot-index) |
@@ -441,6 +442,7 @@ If you're cloning it or find it useful please give it a star
 | [0507-perfect-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0867-new-21-game) |
@@ -1269,6 +1271,7 @@ If you're cloning it or find it useful please give it a star
 | [0216-combination-sum-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
