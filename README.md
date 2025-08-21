@@ -154,6 +154,7 @@ If you're cloning it or find it useful please give it a star
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -939,6 +940,7 @@ If you're cloning it or find it useful please give it a star
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -995,6 +997,7 @@ If you're cloning it or find it useful please give it a star
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -1350,6 +1353,7 @@ If you're cloning it or find it useful please give it a star
 | [1197-parsing-a-boolean-expression](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1581,6 +1585,7 @@ If you're cloning it or find it useful please give it a star
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
