@@ -284,6 +284,7 @@ If you're cloning it or find it useful please give it a star
 | [3429-special-array-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3483-alternating-groups-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1009,6 +1010,7 @@ If you're cloning it or find it useful please give it a star
 | [2685-first-completely-painted-row-or-column](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
