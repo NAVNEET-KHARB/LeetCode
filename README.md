@@ -84,6 +84,7 @@ If you're cloning it or find it useful please give it a star
 | [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -989,6 +990,7 @@ If you're cloning it or find it useful please give it a star
 | [0130-surrounded-regions](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0741-cherry-pickup) |
@@ -1532,6 +1534,7 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0054-spiral-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
