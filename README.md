@@ -274,6 +274,7 @@ If you're cloning it or find it useful please give it a star
 | [3227-find-missing-and-repeated-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
