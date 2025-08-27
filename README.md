@@ -308,6 +308,7 @@ If you're cloning it or find it useful please give it a star
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -977,6 +978,7 @@ If you're cloning it or find it useful please give it a star
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@ If you're cloning it or find it useful please give it a star
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1794,6 +1797,7 @@ If you're cloning it or find it useful please give it a star
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Union Find
 |  |
 | ------- |
