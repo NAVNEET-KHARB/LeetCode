@@ -495,6 +495,7 @@ If you're cloning it or find it useful please give it a star
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
@@ -822,6 +823,7 @@ If you're cloning it or find it useful please give it a star
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -1856,6 +1858,7 @@ If you're cloning it or find it useful please give it a star
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1930,4 +1933,8 @@ If you're cloning it or find it useful please give it a star
 | ------- |
 | [0826-soup-servings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0867-new-21-game) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
