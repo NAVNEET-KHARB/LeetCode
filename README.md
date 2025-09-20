@@ -324,6 +324,7 @@ If you're cloning it or find it useful please give it a star
 | [3790-fruits-into-baskets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -442,6 +443,7 @@ If you're cloning it or find it useful please give it a star
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -882,6 +884,7 @@ If you're cloning it or find it useful please give it a star
 | [2408-number-of-people-aware-of-a-secret](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1259,6 +1262,7 @@ If you're cloning it or find it useful please give it a star
 | [3643-zero-array-transformation-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1308,6 +1312,7 @@ If you're cloning it or find it useful please give it a star
 | [3678-design-task-manager](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 ## Bitmask
 |  |
 | ------- |
@@ -1472,6 +1477,7 @@ If you're cloning it or find it useful please give it a star
 | [2434-design-a-number-container-system](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
