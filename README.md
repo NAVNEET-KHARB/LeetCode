@@ -347,6 +347,7 @@ If you're cloning it or find it useful please give it a star
 | [0142-linked-list-cycle-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0229-majority-element-ii) |
@@ -458,6 +459,7 @@ If you're cloning it or find it useful please give it a star
 | [0060-permutation-sequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0231-power-of-two) |
@@ -754,6 +756,7 @@ If you're cloning it or find it useful please give it a star
 | [0131-palindrome-partitioning](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0290-word-pattern) |
