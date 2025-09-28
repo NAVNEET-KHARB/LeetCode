@@ -123,6 +123,7 @@ If you're cloning it or find it useful please give it a star
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -480,6 +481,7 @@ If you're cloning it or find it useful please give it a star
 | [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -615,6 +617,7 @@ If you're cloning it or find it useful please give it a star
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1448-maximum-69-number) |
@@ -688,6 +691,7 @@ If you're cloning it or find it useful please give it a star
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1184-car-pooling) |
