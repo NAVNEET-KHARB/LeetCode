@@ -131,6 +131,7 @@ If you're cloning it or find it useful please give it a star
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1184-car-pooling](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -997,6 +998,7 @@ If you're cloning it or find it useful please give it a star
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
