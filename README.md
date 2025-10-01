@@ -494,6 +494,7 @@ If you're cloning it or find it useful please give it a star
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2050-count-good-numbers) |
@@ -1620,6 +1621,7 @@ If you're cloning it or find it useful please give it a star
 | [0498-diagonal-traverse](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2048-build-array-from-permutation) |
