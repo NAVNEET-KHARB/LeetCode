@@ -333,6 +333,7 @@ If you're cloning it or find it useful please give it a star
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -1566,6 +1567,7 @@ If you're cloning it or find it useful please give it a star
 | [3647-zero-array-transformation-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1664,6 +1666,7 @@ If you're cloning it or find it useful please give it a star
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Graph
 |  |
 | ------- |
