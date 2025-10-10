@@ -298,6 +298,7 @@ If you're cloning it or find it useful please give it a star
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1560,6 +1561,7 @@ If you're cloning it or find it useful please give it a star
 | [2529-range-product-queries-of-powers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3427-special-array-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3639-zero-array-transformation-i) |
