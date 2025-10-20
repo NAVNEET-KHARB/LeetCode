@@ -195,6 +195,7 @@ If you're cloning it or find it useful please give it a star
 | [2079-delete-duplicate-folders-in-system](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -850,6 +851,7 @@ If you're cloning it or find it useful please give it a star
 | [2079-delete-duplicate-folders-in-system](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1678,6 +1680,7 @@ If you're cloning it or find it useful please give it a star
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
