@@ -212,6 +212,7 @@ If you're cloning it or find it useful please give it a star
 | [2227-sum-of-subarray-ranges](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -525,6 +526,7 @@ If you're cloning it or find it useful please give it a star
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -870,6 +872,7 @@ If you're cloning it or find it useful please give it a star
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1129,6 +1132,7 @@ If you're cloning it or find it useful please give it a star
 | [2089-maximum-matrix-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
