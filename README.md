@@ -317,6 +317,7 @@ If you're cloning it or find it useful please give it a star
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -467,6 +468,7 @@ If you're cloning it or find it useful please give it a star
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -553,6 +555,7 @@ If you're cloning it or find it useful please give it a star
 | [3462-vowels-game-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
