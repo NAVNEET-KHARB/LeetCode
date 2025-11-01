@@ -316,6 +316,7 @@ If you're cloning it or find it useful please give it a star
 | [3483-alternating-groups-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -467,6 +468,7 @@ If you're cloning it or find it useful please give it a star
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1489,6 +1491,7 @@ If you're cloning it or find it useful please give it a star
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
