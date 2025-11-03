@@ -173,6 +173,7 @@ If you're cloning it or find it useful please give it a star
 | [1656-count-good-triplets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -675,6 +676,7 @@ If you're cloning it or find it useful please give it a star
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -864,6 +866,7 @@ If you're cloning it or find it useful please give it a star
 | [1524-string-matching-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1074,6 +1077,7 @@ If you're cloning it or find it useful please give it a star
 | [1628-count-submatrices-with-all-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
