@@ -273,6 +273,7 @@ If you're cloning it or find it useful please give it a star
 | [2699-count-the-number-of-fair-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -555,6 +556,7 @@ If you're cloning it or find it useful please give it a star
 | [2649-count-total-number-of-colored-cells](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1887,6 +1889,7 @@ If you're cloning it or find it useful please give it a star
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
