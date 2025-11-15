@@ -656,6 +656,7 @@ If you're cloning it or find it useful please give it a star
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -941,6 +942,7 @@ If you're cloning it or find it useful please give it a star
 | [3447-clear-digits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -1884,6 +1886,7 @@ If you're cloning it or find it useful please give it a star
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
