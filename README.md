@@ -159,6 +159,7 @@ If you're cloning it or find it useful please give it a star
 | [1510-find-lucky-integer-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
