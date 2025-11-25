@@ -414,6 +414,7 @@ If you're cloning it or find it useful please give it a star
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -536,6 +537,7 @@ If you're cloning it or find it useful please give it a star
 | [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
