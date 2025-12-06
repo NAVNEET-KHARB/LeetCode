@@ -337,6 +337,7 @@ If you're cloning it or find it useful please give it a star
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -687,6 +688,7 @@ If you're cloning it or find it useful please give it a star
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1031,6 +1033,7 @@ If you're cloning it or find it useful please give it a star
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
@@ -1086,6 +1089,7 @@ If you're cloning it or find it useful please give it a star
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1175,6 +1179,7 @@ If you're cloning it or find it useful please give it a star
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1728,6 +1733,7 @@ If you're cloning it or find it useful please give it a star
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
