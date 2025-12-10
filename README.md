@@ -337,6 +337,7 @@ If you're cloning it or find it useful please give it a star
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -603,6 +604,7 @@ If you're cloning it or find it useful please give it a star
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -2141,6 +2143,7 @@ If you're cloning it or find it useful please give it a star
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Topological Sort
 |  |
 | ------- |
@@ -2191,6 +2194,7 @@ If you're cloning it or find it useful please give it a star
 | [2415-count-the-number-of-ideal-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
