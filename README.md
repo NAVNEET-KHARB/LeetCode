@@ -346,6 +346,7 @@ If you're cloning it or find it useful please give it a star
 | [3587-maximum-points-tourist-can-earn](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3606-coupon-code-validator](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -509,6 +510,7 @@ If you're cloning it or find it useful please give it a star
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -866,6 +868,7 @@ If you're cloning it or find it useful please give it a star
 | [3433-count-mentions-per-user](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1000,6 +1003,7 @@ If you're cloning it or find it useful please give it a star
 | [3482-construct-string-with-minimum-cost](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3482-construct-string-with-minimum-cost) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3606-coupon-code-validator](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
