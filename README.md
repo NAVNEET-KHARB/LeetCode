@@ -124,6 +124,7 @@ If you're cloning it or find it useful please give it a star
 | [0934-bitwise-ors-of-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -929,6 +930,7 @@ If you're cloning it or find it useful please give it a star
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
