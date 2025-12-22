@@ -128,6 +128,7 @@ If you're cloning it or find it useful please give it a star
 | [0945-snakes-and-ladders](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -936,6 +937,7 @@ If you're cloning it or find it useful please give it a star
 | [0952-word-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1167,6 +1169,7 @@ If you're cloning it or find it useful please give it a star
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1063-best-sightseeing-pair) |
