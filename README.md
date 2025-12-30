@@ -116,6 +116,7 @@ If you're cloning it or find it useful please give it a star
 | [0794-swim-in-rising-water](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0859-design-circular-deque) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -434,6 +435,7 @@ If you're cloning it or find it useful please give it a star
 | [0756-pyramid-transition-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -567,6 +569,7 @@ If you're cloning it or find it useful please give it a star
 | [0797-rabbits-in-forest](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1261,6 +1264,7 @@ If you're cloning it or find it useful please give it a star
 | [0741-cherry-pickup](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0967-minimum-falling-path-sum) |
