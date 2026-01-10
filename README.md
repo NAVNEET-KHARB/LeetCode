@@ -955,6 +955,7 @@ If you're cloning it or find it useful please give it a star
 | [0583-delete-operation-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0812-rotate-string) |
@@ -1188,6 +1189,7 @@ If you're cloning it or find it useful please give it a star
 | [0583-delete-operation-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0741-cherry-pickup) |
 | [0806-domino-and-tromino-tiling](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
