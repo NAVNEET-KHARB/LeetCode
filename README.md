@@ -309,6 +309,7 @@ If you're cloning it or find it useful please give it a star
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -518,6 +519,7 @@ If you're cloning it or find it useful please give it a star
 | [2856-count-complete-subarrays-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -2038,6 +2040,7 @@ If you're cloning it or find it useful please give it a star
 | [2202-sum-of-k-mirror-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
