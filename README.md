@@ -335,6 +335,7 @@ If you're cloning it or find it useful please give it a star
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1583,6 +1584,7 @@ If you're cloning it or find it useful please give it a star
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
