@@ -564,6 +564,7 @@ If you're cloning it or find it useful please give it a star
 | [3678-design-task-manager](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3678-design-task-manager) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3713-longest-balanced-substring-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1089,6 +1090,7 @@ If you're cloning it or find it useful please give it a star
 | [3637-count-number-of-balanced-permutations](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1878,6 +1880,7 @@ If you're cloning it or find it useful please give it a star
 | [3643-zero-array-transformation-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
