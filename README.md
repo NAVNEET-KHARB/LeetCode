@@ -1590,6 +1590,7 @@ If you're cloning it or find it useful please give it a star
 | [0078-subsets](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0268-missing-number) |
@@ -2058,6 +2059,7 @@ If you're cloning it or find it useful please give it a star
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
