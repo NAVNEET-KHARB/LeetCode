@@ -988,6 +988,7 @@ If you're cloning it or find it useful please give it a star
 | [0583-delete-operation-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
@@ -1482,6 +1483,7 @@ If you're cloning it or find it useful please give it a star
 | [0455-assign-cookies](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0908-middle-of-the-linked-list) |
