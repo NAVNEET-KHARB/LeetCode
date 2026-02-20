@@ -875,6 +875,7 @@ If you're cloning it or find it useful please give it a star
 | [0628-maximum-product-of-three-numbers](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -991,6 +992,7 @@ If you're cloning it or find it useful please give it a star
 | [0696-count-binary-substrings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0868-push-dominoes) |
@@ -2067,6 +2069,7 @@ If you're cloning it or find it useful please give it a star
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0761-special-binary-string) |
 | [0772-construct-quad-tree](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/NAVNEET-KHARB/LeetCode/tree/master/1014-k-closest-points-to-origin) |
